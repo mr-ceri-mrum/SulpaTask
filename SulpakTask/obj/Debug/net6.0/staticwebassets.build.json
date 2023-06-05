@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Bcr15kTFcqrgJdtjpMsHJcqoMCNOwosr2a4OAprSOJU=",
+  "Source": "SulpakTask",
+  "BasePath": "_content/SulpakTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
